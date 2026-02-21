@@ -3,3 +3,9 @@ data/*.db
 node_modules
 npm-debug.log
 .DS_Store
+
+# ignore binaries
+downloads/*.dmg
+downloads/*.exe
+downloads/*.vop
+*.vop
